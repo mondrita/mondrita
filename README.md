@@ -12,8 +12,8 @@
   <tr>
     <td>
       <ul>
-        <li>🌱 I’m currently learning <strong>Java, C++, JavaScript</strong></li>
-        <li>💬 Ask me about <strong>Python, Flask, Machine Learning</strong></li>
+        <li>🌱 I’m currently learning <strong>LLM fine-tuning, JavaScript</strong></li>
+        <li>💬 Ask me about <strong>Python, Deep Learning</strong></li>
         <li>📫 How to reach me <strong>mondritabiswas@gmail.com</strong></li>
         <li>📄 Know about my experiences <a href="https://www.linkedin.com/in/mondrita-biswas-676127314/">LinkedIn Profile</a></li>
         <li>⚡ Fun fact <strong>I love to sing Rabindrasangeet!</strong></li>
